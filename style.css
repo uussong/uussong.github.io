@@ -33,22 +33,26 @@ footer {
   background-color: #212529;
 }
 
-.fa-brands:hover,
-.fa-solid:hover {
+.social-icons > .fa-brands:hover,
+.social-icons > .fa-solid:hover {
   transform: scale(1.1)
 }
 
-.fa-brands,
-.fa-solid {
+.social-icons > .fa-brands,
+.social-icons > .fa-solid {
   transition: all .15s ease-in-out
 }
-
 
 .work-item {
   width: 100%;
   height: 300px;
-  background-color: #212529;
+  background-color: rgb(33, 37, 41);
   cursor: pointer;
+  transition: all .15s ease-in-out
+}
+
+.work-item:hover {
+  background-color: rgba(33, 37, 41, 0.9);
 }
 
 form > input, textarea{
