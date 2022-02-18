@@ -6,6 +6,7 @@ https://uussong.github.io/
 
 - 수정이 필요한 요소
 
+  - 내용 추가!! 필수
   - skill section 단순한 언어 나열이 아니라 다른 구성은 없을지 고민
   - work section의 모듈 크기 및 내용 구성
   - footer
